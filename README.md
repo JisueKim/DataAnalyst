@@ -1,1 +1,2 @@
-# Insurance-data-analyst
+# intro
+**Ericka** Nice to meet you :) 
