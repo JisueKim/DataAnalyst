@@ -1,2 +1,3 @@
-# intro
-**Ericka** Nice to meet you :) 
+# Intro
+I'am **Ericka** 
+Nice to meet you :) 
