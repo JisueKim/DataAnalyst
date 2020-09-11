@@ -1,4 +1,4 @@
-# 언택트 시대와 보험산업 전망 
+언택트 시대와 보험산업 전망 
 
 1. After COVID-19(AC) Changing of Digital Market  
 
@@ -18,20 +18,33 @@
 
    * Ant Financial : Concurrent Customer data - > Analysis -> Hyper-personalized & predictive marketing
 
-   * PingAn : Making the ecosystem 
+   * PingAn : Making the ecosystem, 'PingAn Good Doctor'
 
      
 
-3. Digital Ecosystem - 'End to End, Moment Of Trust'
+3. Digital Ecosystem - 'End to End, Moment Of Truth'
 
    * Interaction - Every company is in the people business
+
    * Experience as a service - Empathy < Trust < Loyalty
+
      - Engagement : Marketing, Sales, Services - Predictive engagement 
+
      - Customer and employee data : Historical data, Third party data, Behavioral data
+
      - Artificial Intelligence : Conversation, Automation, Optimization 
 
-4. Limitation
+       
 
-5. Division
+4. Proposal 
 
-6. Proposal 
+   * UX 향상 위한  Data 분석 
+
+     - Data 추출 : Healthcare data, Financial data, Behavioral data, SNS data, Claim data, Fraude detection data, Etc.
+
+     - Segmentation of the insured by data driven the Underwriting scoring system : A morbidity rate , mortality data or probability of accident related to the coverage
+     - Development of tailor - made products by the life cycle 
+
+     - Expectations : Improvement UX, Improvement profit and loss, 
+     - Considerations : Discrimination due to personal data
+
