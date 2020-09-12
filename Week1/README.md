@@ -48,6 +48,22 @@
      - Expectations : Improvement UX, Development new products,  Risk premium rate - making, Improvement underwriting income 
      - Considerations : Discrimination due to personal data
 
+
+
+5. Questions 
+
+   * 보험에 대한 신뢰도 향상 방법 - P2P보험 
+
+     '미래에셋 사후정산형 보험' https://www.mk.co.kr/news/economy/view/2020/07/695051/
+
+   * 보험에서 MZ 세대를 사로잡는 방법 - Microtargeting 
+
+     '삼성전자의 비스포크' https://n.news.naver.com/article/008/0004469960
+
+   * 건강보험 Vs. 소액미니보험 - Digital platform 
+
+   
+
 [참고자료]
 
 '언택트 시대 국내 비지니스모델 - 한화손해보험' http://lib.kiri.or.kr:9500/semina/semina20200908_1.pdf
