@@ -62,5 +62,5 @@
 
 '언택트 시대 인슈어테크와 보험산업 전망 - 보험연구원' http://lib.kiri.or.kr:9500/semina/semina20200908_6.pdf
 
-'한화생명이 쏘아올린 디지금융 신호탄' http://news.bizwatch.co.kr/article/finance/2020/08/21/0011/facebook
+'한화생명이 쏘아올린 디지털금융 신호탄' http://news.bizwatch.co.kr/article/finance/2020/08/21/0011/facebook
 
