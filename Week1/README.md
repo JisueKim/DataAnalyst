@@ -45,7 +45,7 @@
      - Segmentation of the insured by data driven the Underwriting scoring system : A morbidity rate , mortality data or probability of accident related to the coverage
      - Development of tailor - made products by the life cycle 
 
-     - Expectations : Improvement UX, Development new products, Improvement underwriting income 
+     - Expectations : Improvement UX, Development new products,  Risk premium rate - making, Improvement underwriting income 
      - Considerations : Discrimination due to personal data
 
 [참고자료]
