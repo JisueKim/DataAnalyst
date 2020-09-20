@@ -36,6 +36,10 @@ https://www.kaggle.com/raylo168/dash-yrbss-hs-2017
 
 https://www.kaggle.com/veeralakrishna/aggressive-driving-data
 
+* Cancer prediction
+
+https://www.kaggle.com/abhiparashar/cancer-prediction
+
 * Cancer incidence Averages and Rates  Per US Country
 
 https://www.kaggle.com/dannellyz/cancer-incidence-totals-and-rates-per-us-county
@@ -108,9 +112,25 @@ https://www.kaggle.com/hmwang/covid19riskfactorsheartdisease
 
 https://www.kaggle.com/jtourkis/covid19-us-major-city-density-data
 
+* Predict Mortality/Death rate
+
+https://www.kaggle.com/rajanand/mortality
+
+* Tobacco Use and Mortality, 2004-2015
+
+https://www.kaggle.com/nhs/tobacco-use
+
+* COVID-19 Case Mortality Rations by Country
+
+https://www.kaggle.com/paultimothymooney/coronavirus-covid19-mortality-rate-by-country
+
 * Life Expectancy(WHO)- revised
 
 https://www.kaggle.com/fahmadi96/life-expectancy-who-revised
+
+* Helthy Life Expectancy
+
+https://www.kaggle.com/mpwolke/cusersmarildownloadslifeexpectancycsv
 
 * Insurance recommandation
 
