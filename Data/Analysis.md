@@ -32,9 +32,17 @@ https://www.kaggle.com/fahmadi96/life-expectancy-who-revised
 
 https://www.kaggle.com/haithemhermessi/infectious-disease-prediction
 
+* Insurance Premium Data
+
+https://www.kaggle.com/simranjain17/insurance/notebooks
+
 * Insurance recommandation
 
 https://www.kaggle.com/mrmorj/insurance-recommendation?select=Test.csv
+
+* Health Insurance Cross Sell Prediction 
+
+https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=test.csv
 
 * Aggressive Driving data
 
