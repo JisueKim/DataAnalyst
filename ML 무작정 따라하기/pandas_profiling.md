@@ -54,11 +54,11 @@ pp.ProfileReport(df)
 
 - I look at the ranges of the values. If the max or min of a feature is significantly different from the mean and from the 75% / 25%, I might want to look into this further to understand if these values make sense in their context.
 
-![image-20201119195840023](/Users/jisuekim/Desktop/DataAnalyst/images/image-20201119195840023.png)
+![image-20201119195840023](https://github.com/JisueKim/DataAnalyst/blob/master/images/image-20201119195840023.png?raw=true)
 
-![image-20201119200042249](/Users/jisuekim/Desktop/DataAnalyst/images/image-20201119200042249.png)
+![image-20201119200042249](https://github.com/JisueKim/DataAnalyst/blob/master/images/image-20201119200042249.png?raw=true)
 
-![image-20201119200135857](/Users/jisuekim/Desktop/DataAnalyst/images/image-20201119200135857.png)
+![image-20201119200135857](https://github.com/JisueKim/DataAnalyst/blob/master/images/image-20201119200135857.png?raw=true)
 
 
 ### References
