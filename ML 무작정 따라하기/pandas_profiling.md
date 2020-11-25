@@ -48,7 +48,7 @@ pp.ProfileReport(df)
 
 - I look at the count to see if I have a significant amount of missing values for each specific feature. If there are many missing values for a certain feature I might want to discard it.
 
-![image-20201119200633479](/Users/jisuekim/Library/Application Support/typora-user-images/image-20201119200633479.png)
+![image-20201119200633479](https://github.com/JisueKim/DataAnalyst/blob/master/images/image-20201119200633479.png?raw=true)
 
 - I look at the unique values (for categorical this will show up as NaN for pandas describe, but in Pandas Profiling we can see the distinct count). If a feature has only 1 unique value it will not help my model, so I discard it.
 
