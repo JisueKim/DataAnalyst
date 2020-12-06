@@ -55,7 +55,7 @@
 
  불규칙성을 가지는 시계열 데이터에 특정한 기법이나 모델을 적용하여 규칙적 패턴을 적용 혹은 톄측 할 수 있도록 하는 것. 
 
-<img src="file:///Users/jisuekim/Library/Application%20Support/typora-user-images/image-20201206173210712.png?lastModify=1607243555" alt="image-20201206173210712" style="zoom:50%;" />
+<img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima6.png?raw=true" alt="arima6.png" style="zoom: 50%;" />
 
 ​                                                   [그림참고] https://www.analyticsvidhya.com/
 
@@ -82,7 +82,7 @@
 
    현 시점의 시계열 자료에 몇 번째 전 자료까지 영향을 주는 지 알아내는 데 있음. 
   
-  <img src="/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206160659849.png" alt="image-20201206160659849" style="zoom: 33%;" />
+  <img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima1.png?raw=true" alt="arima1.png" style="zoom:33%;" />
 
 ​       1) 파이(p) - p 시점이 현재에 어느 정도 영향을 주는지를 나타내는 모수 
 
@@ -120,7 +120,7 @@
   
   이전항의 '오차' 에서 현재 항의 상태를 추론하겠다는 의미 
 
-<img src="/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206161247023.png" alt="image-20201206161247023" style="zoom:33%;" />
+<img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima2.png?raw=true" alt="arima2.png" style="zoom:33%;" />
 
 ​        : AR 과 MR 결합하면 **ARMA** 모델인데, 이전항의 상태와 오차에서 현재의 상태를 추론한다. AR, MA 두가지 관점에서 1.      
 
@@ -134,7 +134,7 @@
 
   차분과 변환을 통해 AR, MA, ARMA 등으로 정상화 할 수 있다. (차분을 통해 whitening효과)
 
-  <img src="/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206170104923.png" alt="image-20201206170104923" style="zoom:33%;" />
+  <img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima3.png?raw=true" alt="arima3.png" style="zoom:33%;" />
 
 ​       : ARIMA 모델은 **ARIMA(p,d,q)** 으로 표현하고, 순서대로 **AR  모형 차수, 차분, MA 모형 차수** 의미한다. 
 
@@ -152,7 +152,7 @@
 
    ARIMA(0,2) 모델에 해당됨 
 
-  <img src="/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206172108892.png" alt="image-20201206172108892" style="zoom: 50%;" />
+  <img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima4.png?raw=true" alt="arima4.png" style="zoom:50%;" />
 
 * **부분(편) 자기 상관 함수 (Partial ACF)**
 
@@ -164,7 +164,7 @@
 
   아래의 그래프에서  절단값은 = 2가 되며, **ARIMA 모델에서 AR 계수가 2개 (AR(2)) 필요할 것** 이라고 예상할 수 있다. ARMA(0,1)모형이다. 
 
-<img src="/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206172610138.png" alt="image-20201206172610138" style="zoom:50%;" />
+<img src="https://github.com/JisueKim/DataAnalyst/blob/master/images/arima5.png?raw=true" alt="arima5.png" style="zoom:50%;" />
 
 ​        최적의 모델로 **가장 간단한 모델** 을 선택하거나 **AIC 점수가 가장 낮은 모델** 을 선택하면 된다 
 
@@ -188,7 +188,7 @@ PACF(편 자기 상관 함수) : https://support.minitab.com/ko-kr/minitab/18/he
 
   
 
-  ![image-20201206180038505](/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206180038505.png)
+  ![prophet1.gif](https://github.com/JisueKim/DataAnalyst/blob/master/images/prophet1.gif?raw=true)
 
   
 
@@ -196,7 +196,7 @@ PACF(편 자기 상관 함수) : https://support.minitab.com/ko-kr/minitab/18/he
 
   
 
-  ![image-20201206180053875](/Users/jisuekim/Library/Application Support/typora-user-images/image-20201206180053875.png)
+  ![prophet2.gif](https://github.com/JisueKim/DataAnalyst/blob/master/images/prophet2.gif?raw=true)
 
   
 
