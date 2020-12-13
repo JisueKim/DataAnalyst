@@ -49,7 +49,9 @@ if icd10.exists("J20.0"):
 
 ![ICD-10.png](https://github.com/JisueKim/DataAnalyst/blob/master/images/ICD-10.png?raw=true)
 
-https://realpython.com/pandas-dataframe/
-https://rfriend.tistory.com/487
-https://github.com/bryand1/icd10-cm
+### [references]
+
+https://realpython.com/pandas-dataframe/         
+https://rfriend.tistory.com/487      
+https://github.com/bryand1/icd10-cm           
 
